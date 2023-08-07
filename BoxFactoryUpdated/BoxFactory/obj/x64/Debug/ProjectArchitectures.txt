@@ -1,0 +1,2 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\BoxFactory.csproj;x64
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\FactoryLogic.csproj;neutral

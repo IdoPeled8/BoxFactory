@@ -1,0 +1,96 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\FactoryLogic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.dll
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pdb
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pri
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.AssemblyReference.cache
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CopyComplete
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.dll
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.pdb
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\10\Desktop\BoxFactory\FactoryLogic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\bin\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\FactoryLogic.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\FactoryLogic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\bin\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\bin\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\bin\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\FactoryLogic.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\FactoryLogic.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\FactoryLogic.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\FactoryLogic\obj\Debug\MultipleQualifiersPerDimensionFound.txt

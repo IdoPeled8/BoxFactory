@@ -1,0 +1,200 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.xr.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\Core\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\FactoryLogic.pri.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Boxes dataStructers project\BoxFactory\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\App.xbf
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\MainPage.xbf
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.xr.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.exe
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.pdb
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\resources.pri
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\AppxManifest.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\Core\BoxFactory.exe
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.build.appxrecipe
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\System.Runtime.dll
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.dll
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pdb
+C:\Users\10\Desktop\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pri
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.AssemblyReference.cache
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\App.g.i.cs
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\App.g.cs
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.cs
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\App.xaml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xaml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\App.xbf
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xbf
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CopyComplete
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\FactoryLogic.pri.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.exe
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.pdb
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\10\Desktop\BoxFactory\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.xr.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\Core\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\BoxFactory.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\bin\x64\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\FactoryLogic.pri.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactory\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\BoxFactory.xr.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\Core\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\BoxFactory.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\FactoryLogic.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\FactoryLogic.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\bin\x64\Debug\FactoryLogic.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\BoxFactory.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\MainPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\MainPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\BoxFactory.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\FactoryLogic.pri.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\BoxFactory.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\BoxFactory.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\BoxFactoryUpdated\BoxFactory\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json

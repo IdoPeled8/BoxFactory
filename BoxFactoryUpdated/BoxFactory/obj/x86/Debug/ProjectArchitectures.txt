@@ -1,0 +1,2 @@
+C:\Users\idop9\source\repos\BoxFactory\BoxFactory\BoxFactory.csproj;x86
+C:\Users\idop9\source\repos\BoxFactory\FactoryLogic\FactoryLogic.csproj;x86

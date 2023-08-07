@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="BoxFactory.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BoxFactory"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush ImageSource="/Assets/BoxesBG.png" Stretch="Fill"/>
+    </Page.Background>
+
+    <Grid>
+        <TextBlock Name="messageText" Foreground="red"  HorizontalAlignment="Left" Height="63" Margin="1119,372,0,0" TextWrapping="Wrap" Text="Masseges" VerticalAlignment="Top" Width="244"/>
+        <TextBlock   HorizontalAlignment="Left" Height="27" Margin="81,82,0,0" TextWrapping="Wrap" Text="count" VerticalAlignment="Top" Width="107" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBlock   HorizontalAlignment="Left" Height="35" Margin="77,308,0,0" TextWrapping="Wrap" Text="height" VerticalAlignment="Top" Width="98" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBlock   HorizontalAlignment="Left" Height="24" Margin="77,190,0,0" TextWrapping="Wrap" Text="width" VerticalAlignment="Top" Width="67" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBox Name="addHeight" HorizontalAlignment="Left" Height="47" Margin="77,340,0,0" TextWrapping="Wrap" PlaceholderText="Height"  VerticalAlignment="Top" Width="208" Background="#FF267F9B" BorderBrush="#FFF7F7FA"/>
+        <TextBox Name="addWidth" HorizontalAlignment="Left" Height="47" Margin="77,222,0,0" TextWrapping="Wrap" PlaceholderText="Width"  VerticalAlignment="Top" Width="208" Background="#FF267F9B" BorderBrush="#FFF7F7FA"/>
+        <TextBox Name="addCount" HorizontalAlignment="Left" Height="40" Margin="77,116,0,0" TextWrapping="Wrap"  PlaceholderText="Count"  VerticalAlignment="Top" Width="208" Background="#FF267F9B" FontWeight="Normal" BorderBrush="#FFF7F7FA"/>
+        <Button x:Name="addButton" Content="add" Height="42" Margin="77,434,0,0" VerticalAlignment="Top" Width="208" Click="addButton_Click" Background="Black" FontSize="18" FocusVisualSecondaryBrush="#FFAA9898" BorderBrush="#FFD6D6D6"/>
+        <Button x:Name="searchButton" Content="Search" Height="42" Margin="77,545,0,0" VerticalAlignment="Top" Width="208" Click="searchButton_Click" Background="Black" FontSize="18" FocusVisualSecondaryBrush="#FFAA9898" BorderBrush="#FFD6D6D6"/>
+        <Button x:Name="removeButton" Content="remove" Height="42" Margin="77,490,0,0" VerticalAlignment="Top" Width="208" Click="removeButton_Click" Background="Black" FontSize="18" FocusVisualSecondaryBrush="#FFAA9898" BorderBrush="#FFD6D6D6"/>
+
+        <Button x:Name="buyButton" Content="buy" Height="53" Margin="1299,806,0,0" VerticalAlignment="Top" Width="105" Click="buyButton_Click" Background="Black" FontSize="18" FocusVisualSecondaryBrush="#FFAA9898" BorderBrush="#FFD6D6D6" />
+        <Button x:Name="cancelButton" Content="cancel" Height="53" Margin="1299,884,0,0" VerticalAlignment="Top" Width="105" Click="cancelButton_Click" Background="Black" FontSize="18" FocusVisualSecondaryBrush="#FFAA9898" BorderBrush="#FFD6D6D6"  />
+
+        <TextBlock  HorizontalAlignment="Left" Height="63" Margin="350,61,0,0" TextWrapping="Wrap" Text="boxes main List" VerticalAlignment="Top" Width="244" FontSize="22" FontWeight="Bold" FocusVisualPrimaryBrush="White" Foreground="White"/>
+        <ListView x:Name="boxesMainList" HorizontalAlignment="Left" Height="469" Margin="350,118,0,0" VerticalAlignment="Top" Width="587" Background="#FF5D3D3D"/>
+        <TextBlock  HorizontalAlignment="Left" Height="63" Margin="662,659,0,0" TextWrapping="Wrap" Text="boxes Found List"  VerticalAlignment="Top" Width="244" FontSize="22" FontWeight="Bold"/>
+        <ListView x:Name="boxesFoundList" HorizontalAlignment="Left" Height="217" Margin="662,720,0,0" VerticalAlignment="Top" Width="587" Background="#FF5D3D3D"/>
+
+
+    </Grid>
+</Page>
